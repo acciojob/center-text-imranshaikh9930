@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+ body {
+            background-image: url('globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+            background-size: cover; /* Adjust as needed */
+            background-position: center center;
+            background-repeat: no-repeat;
+            color: white; /* Set the text color to white */
+            font-family: Arial, sans-serif; /* Set the font-family as needed */
+            margin: 0; /* Remove default body margin */
+            padding: 0; /* Remove default body padding */
+			 width:100vw;
+				height:100vh;
+        }
+
+        h1 {
+            text-align: center;
+        }
